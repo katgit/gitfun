@@ -7,3 +7,6 @@ git config
 git init
 git status
 git log
+
+## December 23, 2020
+git push origin main
